@@ -10,7 +10,7 @@ import json
 from datetime import datetime, timezone
 
 # ── CONFIG ───────────────────────────────────────────────────────────────────
-SERVER_URL = "http://127.0.0.1:8000/api"
+SERVER_URL = "http://192.168.1.5:8000/api"
 POLL_INTERVAL = 5
 BROWSER_SYNC_INTERVAL = 60
 PRINT_SYNC_INTERVAL = 30
